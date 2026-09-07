@@ -20,6 +20,20 @@ DevCraft is a project designed to solve a real-world problem using technology.
 - JavaScript
 - Kotlin
 
+## 📱 Application Screenshots
+
+### Message Inbox
+Incoming messages are detected and processed with parsing confidence.
+
+### Message Interpretation
+The system converts unstructured messages into structured order information.
+
+### Order Conversion
+Reviewed messages can be converted into orders and stored locally using Room SQLite.
+
+### Order Management
+Users can view order details and update the order status.
+
 ## 👨‍💻 My Contribution
 
 - Worked on the frontend and project development
