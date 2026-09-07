@@ -25,6 +25,7 @@ DevCraft is a project designed to solve a real-world problem using technology.
 ### Message Inbox
 Incoming messages are detected and processed with parsing confidence.
 
+
 ### Message Interpretation
 The system converts unstructured messages into structured order information.
 
